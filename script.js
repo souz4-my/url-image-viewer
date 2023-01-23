@@ -4,5 +4,6 @@ function handleSubmit() {
     const image = document.createElement('img')
 
     image.src = data.value
+    loadImage.innerHTML = undefined
     loadImage.appendChild(image)
 }
