@@ -2,4 +2,6 @@
 
 This App allows you to view images by url
 
-Cole a sua URL no campo principal e veja a imagem
+Past yout URL in mais input field to show image
+
+isso aqui foi o que eu alterei depois
